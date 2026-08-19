@@ -1,6 +1,6 @@
-# Scripts de traitement d'image
+# Pictrim
 
-Deux scripts Python indépendants basés sur [Pillow](https://pillow.readthedocs.io/) :
+Deux scripts Python indépendants basés sur [Pillow](https://pillow.readthedocs.io/) pour recadrer et redimensionner des images sans perte de qualité inutile :
 
 | Script | Rôle |
 |---|---|
